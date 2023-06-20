@@ -4,7 +4,7 @@ using namespace std;
 
 #include "manager.h"
 
-// main function
+// main function1
 int main()
 {
     StudentManager stm;
