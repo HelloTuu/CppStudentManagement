@@ -4,6 +4,7 @@ using namespace std;
 
 #include "manager.h"
 
+// main func
 int main()
 {
     StudentManager stm;
