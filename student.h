@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// student class
 class Student
 {
 public:
